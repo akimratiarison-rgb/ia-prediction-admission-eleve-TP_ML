@@ -72,9 +72,9 @@ with onglet1:
         # j'ai mis 0.4 apres plusieurs tests, 0.5 refusait trop de monde
         if prob >= 0.4:
             st.snow()
-            st.success("ADMIS - félicitations !")
+            st.success("ADMIS, félicitations !")
         else:
-            st.error("REFUSÉ - les notes ne sont pas suffisantes.")
+            st.error("REFUSÉ, les notes ne sont pas suffisantes.")
             st.warning("Une préparation supplémentaire est nécessaire.")
 
 #  deuxieme partie : import fichier 
