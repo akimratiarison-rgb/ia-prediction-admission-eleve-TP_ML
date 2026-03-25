@@ -21,4 +21,4 @@ En tant qu'étudiant à l'**INSI Madagascar**, je voulais comprendre comment les
 3. **Lance dans terminal :** `streamlit run app.py`
 
 ---
-**Akim Tsitohaina Ratiarison** - Passionné en Data & IA || INSI 🇲🇬
+**Akim Tsitohaina Ratiarison** - Etudiant en Data & IA || INSI 🇲🇬
