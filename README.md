@@ -16,7 +16,7 @@ En tant qu'étudiant en **Data & IA**, je voulais comprendre comment les algorit
 * **Custom CSS** : Pour une interface utilisateur unique
 
 ## Comment le tester chez vous ?
-1. **Clone le dépôt :** `git clone https://github.com`
+1. **Clone le dépôt :** `git clone https://github.com/akimratiarison-rgb/ia-prediction-admission-eleve-TP_ML.git`
 2. **Installe les dépendances :** `pip install -r requirements.txt`
 3. **Lance dans terminal :** `streamlit run app.py`
 
