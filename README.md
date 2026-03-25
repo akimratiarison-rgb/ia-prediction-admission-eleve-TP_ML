@@ -1,6 +1,6 @@
 # Admission ELEVE : Mon premier projet d'IA avec Python 👽
 
-Bienvenue sur mon projet de **Machine Learning** ! J'ai créé cet outil pour aider à prédire les chances d'admission d'un étudiant en se basant sur ses notes. C'est un cas concret de **Régression Logistique** appliqué au monde scolaire.
+Bienvenue sur mon projet de **Machine Learning**. J'ai créé cet outil pour aider à prédire les chances d'admission d'un étudiant en se basant sur ses notes. C'est un cas concret de **Régression Logistique** appliqué au monde scolaire.
 
 [**Tester l'application en direct ici**](https://ia-prediction-admission-eleve-tpmlgit-knmcytcck3d2mu524f7p5t.streamlit.app/)
 
