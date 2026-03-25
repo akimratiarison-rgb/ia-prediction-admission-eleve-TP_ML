@@ -7,7 +7,7 @@ Bienvenue sur mon projet de **Machine Learning** ! J'ai créé cet outil pour ai
 ---
 
 ## Pourquoi ce projet ?
-En tant qu'étudiant à l'**INSI Madagascar**, je voulais comprendre comment les algorithmes peuvent simplifier des décisions complexes. Ici, l'IA analyse deux scores d'examens pour dire si l'élève est admis ou non.
+En tant qu'étudiant en **Data & IA**, je voulais comprendre comment les algorithmes peuvent simplifier des décisions complexes. Ici, l'IA analyse deux scores d'examens pour dire si l'élève est admis ou non.
 
 ## Ma "Stack" technique
 * **Python**  (Le cœur du projet)
@@ -21,4 +21,4 @@ En tant qu'étudiant à l'**INSI Madagascar**, je voulais comprendre comment les
 3. **Lance dans terminal :** `streamlit run app.py`
 
 ---
-**Akim Tsitohaina Ratiarison** - Etudiant en Data & IA || INSI 🇲🇬
+**Akim Tsitohaina Ratiarison** - Etudiant en Data & IA || ®
